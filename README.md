@@ -82,3 +82,5 @@ Dosen berselasi dengan tabel jabatan dan bidang, yang artinya tiap dosen memilik
   
   
 ====RECORD===
+
+https://github.com/indahrf/TP3DPBO2023C1/assets/99266430/5a40e0e5-1456-42c0-84d2-d5242e3f4f88
